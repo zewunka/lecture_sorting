@@ -36,6 +36,7 @@ def selection_sort(cisla,direction = 1 ):
                         cisla[x], cisla[k] = cisla[k], cisla[x]
     return cisla
 
+
 def main():
     pass
 
